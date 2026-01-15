@@ -1,7 +1,5 @@
 # Magic War
 
-🎮 **[Tarayıcıdan Oyna](https://fnyzc.itch.io/magic-war)**
-
 ---
 
 ## 🧙‍♂️ Oyun Hakkında
@@ -28,8 +26,6 @@ Magic War, büyücü düellosu temalı basit fakat eğlenceli bir 2D aksiyon oyu
 
 ## 📤 Dağıtım
 Oyun WebGL olarak build edilip itch.io üzerinde yayınlanmıştır.  
-İzleme, değerlendirme ve oynanış kontrolü için bağlantı:  
-➡️ **https://fnyzc.itch.io/magic-war**
 
 ---
 
